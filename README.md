@@ -21,7 +21,7 @@ Check out the live demo on [GitHub Pages](https://ahmadubaid061.github.io/image_
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/image-slider.git
+git clone https://github.com/ahmadubaid061/image_slider.git
 ```
 
 2. Navigate to the project directory:
@@ -77,8 +77,5 @@ image-slider/
 │   └── ...
 
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
 Project Link: [https://github.com/your-username/image-slider](https://ahmadubaid061.github.io/image_slider/)
