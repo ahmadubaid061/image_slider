@@ -78,4 +78,4 @@ image-slider/
 
 
 
-Project Link: [https://github.com/your-username/image-slider](https://ahmadubaid061.github.io/image_slider/)
+Project Link: (https://ahmadubaid061.github.io/image_slider/)
