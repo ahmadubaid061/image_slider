@@ -15,7 +15,7 @@ A responsive and interactive image slider built with HTML, CSS, and JavaScript t
 
 ## Live Demo
 
-Check out the live demo on [GitHub Pages](https://your-username.github.io/repository-name)
+Check out the live demo on [GitHub Pages](https://ahmadubaid061.github.io/image_slider/)
 
 ## Installation
 
@@ -81,4 +81,4 @@ image-slider/
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/your-username/image-slider](https://github.com/your-username/image-slider)
+Project Link: [https://github.com/your-username/image-slider](https://ahmadubaid061.github.io/image_slider/)
